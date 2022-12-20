@@ -1,0 +1,15 @@
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\bin\Debug\net7.0\Hello Console.exe
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\bin\Debug\net7.0\Hello Console.deps.json
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\bin\Debug\net7.0\Hello Console.runtimeconfig.json
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\bin\Debug\net7.0\Hello Console.dll
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\bin\Debug\net7.0\Hello Console.pdb
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\obj\Debug\net7.0\Hello Console.csproj.AssemblyReference.cache
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\obj\Debug\net7.0\Hello Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\obj\Debug\net7.0\Hello Console.AssemblyInfoInputs.cache
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\obj\Debug\net7.0\Hello Console.AssemblyInfo.cs
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\obj\Debug\net7.0\Hello Console.csproj.CoreCompileInputs.cache
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\obj\Debug\net7.0\Hello Console.dll
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\obj\Debug\net7.0\refint\Hello Console.dll
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\obj\Debug\net7.0\Hello Console.pdb
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\obj\Debug\net7.0\Hello Console.genruntimeconfig.cache
+D:\Торрент Загрузки\Обучение\2022.12 Знакомство с языками программирования (лекции)\Лекция 1 уроки\Hello Console\obj\Debug\net7.0\ref\Hello Console.dll
